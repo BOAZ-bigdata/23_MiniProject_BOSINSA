@@ -45,6 +45,7 @@ This VGG16-based model leverages pre-trained features and a deep network structu
 - AI : Python / OpenCV / Tensorflow /VGG16 / Transformer
 - Web : React with fast api <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 - Crawling : Selenium
+- Database : MySql 
 
 # Future..👀
 - 기존 모델은 4가지 퍼스널 컬러(봄, 여름, 가을, 겨울)의 데이터로 훈련됐으나 향후 퍼스널 컬러를 구체화하여 일반화 성능이 높은 모델 개발을 위한 모델링 예정.
