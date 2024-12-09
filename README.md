@@ -49,3 +49,7 @@ This VGG16-based model leverages pre-trained features and a deep network structu
 # Future..👀
 - 기존 모델은 4가지 퍼스널 컬러(봄, 여름, 가을, 겨울)의 데이터로 훈련됐으나 향후 퍼스널 컬러를 구체화하여 일반화 성능이 높은 모델 개발을 위한 모델링 예정.
 - The existing model was trained on data for the four personal color categories (Spring, Summer, Autumn, Winter). However, future modeling will aim to further refine the personal color classifications to develop a model with higher generalization performance.
+
+
+# More in 🪄
+https://github.com/orgs/BOSINSA-miniproj/repositories
