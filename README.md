@@ -4,7 +4,7 @@ Personal Color 기반 상의 추천 이미지 생성 AI 👚👕
 # AboutOurTeams..✨
 BOSINSA
 
-<img width="200px" src="https://github.com/0gonge.png"/> | <img width="200px" src="https://github.com/withmochaa.png"/> | <img width="200px" src="https://github.com/y-bin-s"/> | <img width="200px" src="https://github.com/Jaewon1634.png"/> | <img width="200px" src="https://github.com/kimmuyeon.png"/> | 
+<img width="200px" src="https://github.com/0gonge.png"/> | <img width="200px" src="https://github.com/withmochaa.png"/> | <img width="200px" src="https://github.com/y-bin-s.png"/> | <img width="200px" src="https://github.com/Jaewon1634.png"/> | <img width="200px" src="https://github.com/kimmuyeon.png"/> | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |[송여경](https://github.com/0gonge)|[김강민](https://github.com/withmochaa)|[성예빈](https://github.com/y-bin-s)|[이재원](https://github.com/Jaewon1634)|[김무연](https://github.com/kimmuyeon)|
 
